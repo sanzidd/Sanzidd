@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>Hi 👋, I'm Sanzidul Islam</h1>
+  <h1>Hi 👋, I'm Sanzidul Islam(sanzid)</h1>
   <p>
     <strong>
       Electronics & Telecommunication Engineering Student <br/>
