@@ -101,7 +101,7 @@ A **machine learning project** focused on predictive analytics:
   <h3>🤝 Let’s Connect</h3>
   <p>Open to collaborations in Smart Grid, Machine Learning, and Intelligent Energy Systems.</p>
 
-  <a href="https://www.linkedin.com/in/sanzidul-islam-205a75260">
+  <a href="https://www.linkedin.com/in/sanzidul-islam-sanzid-205a75260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:sanzidis99@gmail.com">
