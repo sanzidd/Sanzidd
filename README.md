@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Sanzidul%20Islam&fontSize=62&animation=fadeIn&fontAlignY=38" width="100%">
 </p>
 
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sanzidul-islam-sanzid-205a75260">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -29,9 +27,9 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table width="100%" align="center">
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3>🙋‍♂️ Who am I?</h3>
       <ul>
         <li>🎓 <b>Electronics & Telecommunication Engineering</b> student</li>
@@ -42,9 +40,9 @@
         <li>📧 sanzidis99@gmail.com</li>
       </ul>
     </td>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3>🚀 Currently</h3>
-      <table>
+      <table width="100%">
         <tr><td>🔭 Working on</td><td>NLP projects & Smart Power Grid</td></tr>
         <tr><td>🌱 Learning</td><td>Deep Learning & LLMs</td></tr>
         <tr><td>🧠 Exploring</td><td>Transformer Architecture</td></tr>
@@ -60,43 +58,64 @@
 
 ## 🛠️ Technical Skills
 
+### 👨‍💻 Programming Languages
 <div align="center">
-  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%20%2F%20C++-374151?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20C-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <br/><br/><br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+---
+
+### 🤖 Machine Learning & AI
+<div align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-7C3AED?style=for-the-badge" />
+</div>
+
+---
+
+### 📊 Data Analysis & Visualization
+<div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-3E7CBF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <br/><br/><br/>
+</div>
+
+---
+
+### 🌐 Web Development (Full Stack)
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+---
+
+### 🔌 IoT & Embedded Systems
+<div align="center">
   <img src="https://img.shields.io/badge/IoT%20Systems-1ABC9C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blynk-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EasyEDA-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proteus-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br/><br/>
 </div>
 
 ---
 
 ## 📌 Pinned / Featured Projects
 
-<table width="150%">
+<table width="100%" align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>⚡ Smart Power Grid System</h3>
       <p><i>IoT-based Power Quality Monitoring & Automated Control</i></p>
       <ul>
@@ -110,7 +129,7 @@
         <img src="https://img.shields.io/badge/View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>📧 Spam Mail Detector</h3>
       <p><i>NLP + Naive Bayes Text Classification</i></p>
       <ul>
@@ -126,7 +145,7 @@
     </td>
   </tr>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>🌲 Random Forest + Hyperparameter Tuning</h3>
       <p><i>Breast Cancer Detection with Advanced ML</i></p>
       <ul>
@@ -139,7 +158,7 @@
         <img src="https://img.shields.io/badge/View%20Repo-111827?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>🌐 Portfolio Website (Full Stack)</h3>
       <p><i>Personal portfolio with frontend & backend</i></p>
       <ul>
@@ -224,13 +243,36 @@
   </tbody>
 </table>
 
+
 ---
 
-### 🟡 Bongo Vashkor Club — Community Platform
-> Full-stack web app with event management & bKash payment integration
+## 🟡 Bongo Vashkor Club — Community Platform
+
+**Type:** Full-Stack Web Application  
+**Purpose:** Digital community & event management system  
+
+A complete community management platform designed for handling club operations, events, and member payments digitally.
+
+### 🔹 Key Features
+- 🗓️ Event creation & management dashboard
+- 👥 Member registration & authentication system
+- 💳 bKash payment integration for event fees
+- 📢 Announcement & activity updates
+- 🔐 Secure REST API with role-based access
+- 🗄️ MongoDB database integration
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Payment Gateway:** bKash API  
+
+<div align="center">
 
 [![Frontend](https://img.shields.io/badge/Frontend-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanzidd/bongo-club-frontend)
 [![Backend](https://img.shields.io/badge/Backend-B45309?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanzidd/bongo-club-backend)
+
+</div>
 
 ---
 
